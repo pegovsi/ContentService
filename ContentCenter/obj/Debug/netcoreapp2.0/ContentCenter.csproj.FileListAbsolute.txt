@@ -1,0 +1,11 @@
+D:\new\ContentCenter\ContentCenter\ContentCenter\bin\Debug\netcoreapp2.0\ContentCenter.deps.json
+D:\new\ContentCenter\ContentCenter\ContentCenter\bin\Debug\netcoreapp2.0\ContentCenter.runtimeconfig.json
+D:\new\ContentCenter\ContentCenter\ContentCenter\bin\Debug\netcoreapp2.0\ContentCenter.runtimeconfig.dev.json
+D:\new\ContentCenter\ContentCenter\ContentCenter\bin\Debug\netcoreapp2.0\ContentCenter.dll
+D:\new\ContentCenter\ContentCenter\ContentCenter\obj\Debug\netcoreapp2.0\ContentCenter.csproj.CoreCompileInputs.cache
+D:\new\ContentCenter\ContentCenter\ContentCenter\obj\Debug\netcoreapp2.0\ContentCenter.AssemblyInfoInputs.cache
+D:\new\ContentCenter\ContentCenter\ContentCenter\obj\Debug\netcoreapp2.0\ContentCenter.AssemblyInfo.cs
+D:\new\ContentCenter\ContentCenter\ContentCenter\bin\Debug\netcoreapp2.0\ContentCenter.pdb
+D:\new\ContentCenter\ContentCenter\ContentCenter\obj\Debug\netcoreapp2.0\ContentCenter.dll
+D:\new\ContentCenter\ContentCenter\ContentCenter\obj\Debug\netcoreapp2.0\ContentCenter.pdb
+D:\new\ContentCenter\ContentCenter\ContentCenter\obj\Debug\netcoreapp2.0\ContentCenter.csprojAssemblyReference.cache
